@@ -11,6 +11,8 @@ social-shield
  |  |-- BiNetwork50
  |  |-- UniNetwork150
  |-- preprocess
+ |  |-- negative=True
+ |  |-- negative=False
  |-- show_network
 ```
 
