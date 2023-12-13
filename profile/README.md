@@ -5,29 +5,13 @@
 SocialShield is a Python library designed to empower developers in the analysis and processing of social media data. Whether you're working with diverse datasets or need robust text preprocessing pipelines, SocialShield has you covered.
 
 ```
-SNE-RoadSeg
- |-- checkpoints
- |  |-- kitti
- |  |  |-- kitti_net_RoadSeg.pth
- |-- data
+social-shield
  |-- datasets
- |  |-- kitti
- |  |  |-- training
- |  |  |  |-- calib
- |  |  |  |-- depth_u16
- |  |  |  |-- gt_image_2
- |  |  |  |-- image_2
- |  |  |-- validation
- |  |  |  |-- calib
- |  |  |  |-- depth_u16
- |  |  |  |-- gt_image_2
- |  |  |  |-- image_2
- |  |  |-- testing
- |  |  |  |-- calib
- |  |  |  |-- depth_u16
- |  |  |  |-- image_2
- |-- examples
- ...
+ |  |-- load_scams
+ |  |-- BiNetwork50
+ |  |-- UniNetwork150
+ |-- preprocess
+ |-- show_network
 ```
 
 ## Features
