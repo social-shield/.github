@@ -26,6 +26,14 @@ SocialShield supports various types of datasets, making it versatile for differe
 
 SocialShield comes with built-in text preprocessing pipelines to streamline your data cleaning and analysis tasks. From handling special characters to normalizing text, our preprocessing tools make it easy to prepare your data for further analysis.
 
+## Datasets
+### 1. scams.csv
+
+The dataset consists of text samples, each labeled either "yes" or "no" to indicate whether the content is indicative of a scam. The text samples cover a range of topics, with those labeled "yes" likely representing scam-related content, and those labeled "no" representing non-scam content. It's tailored exclusively for binary classification, distinguishing between scam-related and non-scam-related text samples.
+### 2. BiNetwork50.json
+
+The dataset is a compilation of social media profiles, each identified by a unique node ("1," "2," etc.), featuring corresponding tweets and connections. With a total of 50 nodes, the dataset provides insights into individuals' tweets and their connections with other users on the platform. The tweets encompass a variety of content, ranging from personal updates and interests to potential instances of spam or scam-related information. The connections within the dataset denote relationships between users, suggesting friendships or other forms of interaction within the social media environment.
+
 ## Getting Started
 
 ### Installation
