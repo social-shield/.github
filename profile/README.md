@@ -34,6 +34,29 @@ The dataset consists of text samples, each labeled either "yes" or "no" to indic
 
 The dataset is a compilation of social media profiles, each identified by a unique node ("1," "2," etc.), featuring corresponding tweets and connections. With a total of 50 nodes, the dataset provides insights into individuals' tweets and their connections with other users on the platform. The tweets encompass a variety of content, ranging from personal updates and interests to potential instances of spam or scam-related information. The connections within the dataset denote relationships between users, suggesting friendships or other forms of interaction within the social media environment.
 
+```
+social-shield
+|-- datasets
+|   |-- scams.csv
+|   |   |-- Here is a great investment opportunity! Click here to learn more: [link]  ,  yes
+|   |   |-- I'm giving away a free car! All you have to do is retweet this post and follow me ,  yes
+|   |   |-- You've won a prize! Click here to claim your prize: [link]    yes
+|   |   |-- Access to quality healthcare is a fundamental right for every individual. #HealthcareForAll,	no
+|   |   |-- Preventive care is key to maintaining a healthy nation. #PublicHealth	,no
+|   |   |-- The pandemic has highlighted the importance of a strong healthcare system. #COVID19	,no
+|   |   |-- ... (remaining dataset content)
+|   |-- BiNetwork50
+|   |   |-- 1
+|   |   |   |-- Tweets
+|   |   |   |   |--Saw a beautiful sunset today.
+|   |   |   |   |--Invest today and work towards your financial goals!
+|   |   |   |   |-- ... (remaining dataset content)
+|   |   |   |-- Connections
+|   |   |   |   |-- 2
+|   |   |   |   |-- 4
+|   |   |   |   |-- 7
+```
+
 ## Getting Started
 
 ### Installation
