@@ -49,10 +49,11 @@ social-shield
 |   |   |   |-- Tweets
 |   |   |   |   |--Saw a beautiful sunset today.
 |   |   |   |   |--Invest today and work towards your financial goals!
-|   |   |   |   |-- ... (remaining dataset content)
+|   |   |   |   |-- ... (remaining tweet content)
 |   |   |   |-- Connections
 |   |   |   |   |-- 2
 |   |   |   |   |-- 4
+|   |   |   |   |-- ... (remaining connections)
 |   |   |-- ... (remaining dataset content)
 ```
 
