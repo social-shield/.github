@@ -40,10 +40,8 @@ social-shield
 |   |-- scams.csv
 |   |   |-- Here is a great investment opportunity! Click here to learn more: [link]  ,  yes
 |   |   |-- I'm giving away a free car! All you have to do is retweet this post and follow me ,  yes
-|   |   |-- You've won a prize! Click here to claim your prize: [link]    yes
 |   |   |-- Access to quality healthcare is a fundamental right for every individual. #HealthcareForAll,	no
 |   |   |-- Preventive care is key to maintaining a healthy nation. #PublicHealth	,no
-|   |   |-- The pandemic has highlighted the importance of a strong healthcare system. #COVID19	,no
 |   |   |-- ... (remaining dataset content)
 |   |-- BiNetwork50
 |   |   |-- 1
@@ -54,7 +52,7 @@ social-shield
 |   |   |   |-- Connections
 |   |   |   |   |-- 2
 |   |   |   |   |-- 4
-|   |   |   |   |-- 7
+|   |   |-- ... (remaining dataset content)
 ```
 
 ## Getting Started
