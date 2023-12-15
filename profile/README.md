@@ -34,6 +34,7 @@ The dataset consists of text samples, each labeled either "yes" or "no" to indic
 
 The dataset is a compilation of social media profiles, each identified by a unique node ("1," "2," etc.), featuring corresponding tweets and connections. With a total of 50 nodes, the dataset provides insights into individuals' tweets and their connections with other users on the platform. The tweets encompass a variety of content, ranging from personal updates and interests to potential instances of spam or scam-related information. The connections within the dataset denote relationships between users, suggesting friendships or other forms of interaction within the social media environment.
 
+Structure of how the datasets look like:
 ```
 social-shield
 |-- datasets
