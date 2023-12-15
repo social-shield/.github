@@ -1,0 +1,1 @@
+from socialshield.loader import SocialShieldLoader
