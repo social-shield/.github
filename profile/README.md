@@ -7,9 +7,15 @@ SocialShield is a Python library designed to empower developers in the analysis 
 ```
 social-shield
  |-- datasets
- |  |-- load_scams
+ |  |-- scams
+ |  |  |--load_data()
+ |  |  |--get_word_index()
  |  |-- BiNetwork50
+ |  |  |--load_data()
+ |  |  |--get_node_charector()
  |  |-- UniNetwork150
+ |  |  |--load_data()
+ |  |  |--get_node_charector()
  |-- preprocess
  |  |-- negative=True
  |  |-- negative=False
